@@ -10,7 +10,6 @@
 
 ## 版本
 版本包地址：https://github.com/CELI-GALAS/ZhaZiTown-2/releases
-版本标记格式：vX.X
 
 ## 反馈
 Bug 与建议可在 Issues 提交。
