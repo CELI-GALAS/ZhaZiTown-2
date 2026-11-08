@@ -1,4 +1,4 @@
-# 渣泽镇生存2（ZhaZiTown-2）
+# 渣滓镇生存2（ZhaZiTown-2）
 基于 Unreal Engine 开发的独立生存游戏。
 
 ## 说明
